@@ -1,2 +1,2 @@
-# TugasRSBK
-Repository Tugas Individu RSBK dalam menjalankan server payara
+Tugas RSBK 2020
+Repository Tugas RSBK
